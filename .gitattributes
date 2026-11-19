@@ -1,0 +1,5 @@
+# keep Windows scripts in Windows line endings and Mac/Linux scripts in Unix ones
+*.bat text eol=crlf
+*.sh text eol=lf
+*.command text eol=lf
+*.py text eol=lf
